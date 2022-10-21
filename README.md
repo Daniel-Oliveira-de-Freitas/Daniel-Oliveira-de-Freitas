@@ -14,16 +14,20 @@
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;"></a>
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="max-width: 100%;"></a>
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" style="max-width: 100%;"></a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="max-width: 100%;"></a>
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%;"></a> 
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;"></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a> 
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="max-width: 100%;"></a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="max-width: 100%;"></a>
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a> 
 </div>
 <h2 dir="auto"></h2>
 
+<a href="mailto:danisnake27@gmail.com"><img align="center" height="30" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://www.linkedin.com/in/daniel-oliveira-de-freitas-764a3a20a/"><img align="center" height="30" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
+<a href="https://www.linkedin.com/in/daniel-oliveira-de-freitas-764a3a20a/"><img align="center" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width: 100%;"></a> 
 
 
 
