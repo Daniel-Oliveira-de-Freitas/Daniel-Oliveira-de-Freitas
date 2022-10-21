@@ -27,9 +27,7 @@
 
 <a href="mailto:danisnake27@gmail.com"><img align="center" height="30" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://www.linkedin.com/in/daniel-oliveira-de-freitas-764a3a20a/"><img align="center" height="30" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
-<a href="https://www.linkedin.com/in/daniel-oliveira-de-freitas-764a3a20a/"><img align="center" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width: 100%;"></a> 
-
-
+ 
 
 <!---
 Daniel-Oliveira-de-Freitas/Daniel-Oliveira-de-Freitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
